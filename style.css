@@ -75,3 +75,12 @@ margin : 1rem 0 4rem 0;
 .scoreArea{
     display:none;
 }
+@media(max-width:768px) {
+    html{
+        font-size:45%;
+    }
+    .inner-div {
+        width: 60vw;
+        
+    }
+}

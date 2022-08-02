@@ -102,7 +102,7 @@ if(count<askquestions.length){
 
 else{
     showscores.innerHTML=`
-    <h3 style="padding-top:20px;font-size: 2rem ; text-align: center;"> Your Score ${score}/${askquestions.length}</h3>
+    <h3 style="padding-top:2rem;font-size: 2rem ; text-align: center;"> Your Score ${score}/${askquestions.length}</h3>
     <button id="sco" class="btn" 
      onclick="location.reload()">Start Again</button>
     `

@@ -54,9 +54,9 @@ margin : 1rem 0 4rem 0;
     background-color: #0984e3;
 }
 #sco{
-    margin-bottom:20px;
-     padding:8px;
-      font-size:22px;
+    margin-bottom:2rem;
+     padding:0.8rem;
+      font-size:2rem;
        cursor:pointer; 
     background-color:#55efc4;
      color:#fff;
